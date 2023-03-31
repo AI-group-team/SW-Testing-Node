@@ -4,8 +4,7 @@ const webdriver = require('selenium-webdriver');
 // const remote = require('selenium-webdriver/remote');
 
 // Define your Sauce Labs credentials
-const username = 'oauth-bereketzewde989-46560';
-const accessKey = '5513b831-90ad-4617-b1f7-34bcbb6247c4';
+
 
 async function runTestWithCaps (capabilities) {
     
